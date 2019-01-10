@@ -1,5 +1,7 @@
-# **Instructions**
+# **About**
 
-* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.
+* This App is deployed to Heroku. 
+* Link: https://glacial-meadow-89418.herokuapp.com/
 
-* Explain to one another what the code does, what its for, and why its relevant to the application so far. Be sure to explain to one another what the `$.post` code is doing.
+* This app allows users to search a database for Star Wars Characters, 
+* and to add new characters to this database. 
