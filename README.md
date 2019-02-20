@@ -5,9 +5,7 @@ and to add new characters to this database.
 ## Deployment
 * This App is deployed to Heroku.
 * Link: https://glacial-meadow-89418.herokuapp.com/
-
-* Github repo:
-* Link: https://github.com/spencej4/StarWarsApp
+* Github repo: https://github.com/spencej4/StarWarsApp
 
 ## Built With
 
